@@ -1,0 +1,144 @@
+body{
+    width: vw;
+    height: vh;
+    background-color: rgb(255, 255, 255);
+    max-resolution: top 1px;% ;
+    
+}
+.btn-center{
+    align-items: center;
+}
+.btn{
+    color: #000;
+    border-color: rgb(59, 67, 81);
+    background: none;
+    
+}
+.btn:hover ,.btn:focus{
+    background: none;
+    border-color: none;
+    text-decoration: none;
+    border-color: #000;
+  }
+  .hgg{
+align-content: center;
+padding-top: 5%;
+  }
+  .emv a{
+      color: #000;
+    }
+    .emv2{
+        text-align: center;
+        padding-top: 20px;
+        font-family: sans-serif;
+    }
+    .emv3{
+        background-color: aqua
+        height: 100%;
+    }
+    .emv34 {
+        display: inline-flex;
+        display: -ms-inline-flexbox;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        padding-left: 20px;
+       padding-top: 20px;
+        padding-bottom: 0%;
+      }
+
+      .emv6{
+          align-content: center;
+      }
+      .ma{
+          margin-left: 1rem;
+      }
+
+      .texr{
+          margin-right: 1rem;
+      }
+
+      .emv7{
+        height: 150px;
+        width: 150px;
+        
+      }
+      .ava{
+        background: #5755d9;
+  border-radius: 50%;
+  color: rgba(255, 255, 255, .85);
+  display: inline-block;
+  font-size: .8rem;
+  font-weight: 300;
+  height: 1.6rem;
+  line-height: 1.25;
+  margin: 0;
+  position: relative;
+  vertical-align: middle; 
+  height: 1.6rem;
+      }
+      .emb{
+          float: right;
+          
+      }
+
+      .dd{
+          text-align: center;
+      }
+
+     /*<section id="enh"style="background: url(emv.jpg);background-size: 100% 100%; width: 100vw; height:100vh;"></section>
+
+     */
+     .colo{
+         color: #000;
+     }
+     .bol{
+         font-style: b;
+     }
+     .d{
+         background: none;
+     }
+     .er {
+        background:none;
+        border-radius: 50%;
+        color: rgba(255, 255, 255, .85);
+        display: inline-block;
+        font-size: .8rem;
+        font-weight: 300;
+        height: 1.6rem;
+        line-height: 1.25;
+        margin: 0;
+        position: relative;
+        vertical-align: middle; 
+       height: 1.6rem;
+      }
+
+      .gtr{
+          text-decoration: none;
+      }
+      .mg{
+        text-shadow: 0px 5px 5px 0;
+        background: black;
+         
+      }
+
+imge {
+  width: 200px;
+  height: 400px;
+  object-fit: cover;
+}
+.rowe {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .columne {
+    flex: 50%;
+    padding: 0 4px;
+  }
+  
+  .columne img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
